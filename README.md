@@ -1,2 +1,2 @@
-# docker_prac
-Several docker practice
+# Just some simple docker practice
+Nothing special
